@@ -16,7 +16,7 @@ void main() {
   });
 
   Map<dynamic, dynamic> Student1 = {
-    'Name': 'Syed muzamil shah',
+    'Name': 'Syed muzamil',
   };
   print(Student1);
 
